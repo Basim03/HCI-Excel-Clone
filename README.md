@@ -1,7 +1,5 @@
 # The Excel Clone
 
-♦ Live at : https://kishanrajput23.github.io/The-Excel-Clone/
-
 ## Description :-
 - It is a web application clone of Excel, created using HTML, CSS and Javscript entirely.
 
